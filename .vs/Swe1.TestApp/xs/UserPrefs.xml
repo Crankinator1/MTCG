@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{A3C2D41A-5422-4CCA-9988-375F5B504D5E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Swe1.TestApp/Program.cs" Line="27" Column="1" />
+      <File FileName="Swe1.TestApp/Stack.cs" Line="104" Column="85" />
+      <File FileName="Swe1.TestApp/User.cs" Line="25" Column="13" />
+      <File FileName="Swe1.TestApp/MonsterCard.cs" Line="14" Column="1" />
+      <File FileName="Swe1.TestApp/SpellCard.cs" Line="2" Column="20" />
+      <File FileName="Swe1.TestApp/GameCard.cs" Line="12" Column="1" />
+      <File FileName="Swe1.TestApp/ScoreBoard.cs" Line="11" Column="31" />
+      <File FileName="Swe1.TestApp/ScoreBoard.cs" Line="15" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Swe1.TestApp" expanded="True">
+            <Node name="Swe1.TestApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Felix/Projects/Swe1.TestApp/Swe1.TestApp/User.cs" relfile="Swe1.TestApp/User.cs" line="21" column="1" />
+      <Breakpoint file="/Users/Felix/Projects/Swe1.TestApp/Swe1.TestApp/User.cs" relfile="Swe1.TestApp/User.cs" line="23" column="1" />
+      <Breakpoint file="/Users/Felix/Projects/Swe1.TestApp/Swe1.TestApp/User.cs" relfile="Swe1.TestApp/User.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Swe1.TestApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
